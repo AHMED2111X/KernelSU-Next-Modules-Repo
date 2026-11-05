@@ -1,21 +1,24 @@
-# Security Policy
+# Security Policy — FALCON INTEGRITY FIX
 
-## Supported Versions
+## Supported Versions (الإصدارات المدعومة)
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+| Version | Supported |
+| ------- | --------- |
+| v3.27+  | ✅ Yes / نعم |
+| v3.26   | ⚠️ Update recommended / يُنصح بالتحديث |
+| < v3.26 | ❌ No / لا |
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+## Reporting a Vulnerability (الإبلاغ عن ثغرة أمنية)
 
-## Reporting a Vulnerability
+**English:** Please report security vulnerabilities **privately** via Telegram
+[@falcon_kernel](https://t.me/falcon_kernel) or the support group
+[@falcon_support_root](https://t.me/falcon_support_root). Do NOT open a public
+GitHub issue for security vulnerabilities.
 
-Use this section to tell people how to report a vulnerability.
+**العربية:** للإبلاغ عن أي ثغرة أمنية في الوحدة، استخدم تليجرام الخاص:
+@falcon_kernel أو مجموعة الدعم: @falcon_support_root. يُرجى **عدم فتح
+إعلان عام (Issue)** على GitHub للثغرات الأمنية.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+- ⏱️ Expected response: within 48 hours / وقت الرد المتوقع: خلال 48 ساعة
+- ✅ If accepted: fixed in the next release / إذا قُبلت: تُصلَّح في الإصدار التالي
+- ❌ If declined: you will receive an explanation / إذا رُفضت: ستصلك التوضيحات
